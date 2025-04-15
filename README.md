@@ -4,5 +4,5 @@
 ---
 ![EMS Output](3.png)
 ---
-![EMS Output]4.png)
+![EMS Output](4.png)
 ---
